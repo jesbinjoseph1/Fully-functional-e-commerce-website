@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fully-functional-e-commerce-website/static/css/main.d5d2d815.css",
+    "main.js": "/Fully-functional-e-commerce-website/static/js/main.db92f99c.js",
+    "static/media/Estrategias-ecommerce-para-los-pequenos-y-medianos-negocios.jpg": "/Fully-functional-e-commerce-website/static/media/Estrategias-ecommerce-para-los-pequenos-y-medianos-negocios.973a8c99127c635b3089.jpg",
+    "index.html": "/Fully-functional-e-commerce-website/index.html",
+    "main.d5d2d815.css.map": "/Fully-functional-e-commerce-website/static/css/main.d5d2d815.css.map",
+    "main.db92f99c.js.map": "/Fully-functional-e-commerce-website/static/js/main.db92f99c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5d2d815.css",
+    "static/js/main.db92f99c.js"
+  ]
+}
